@@ -1,0 +1,8 @@
+{
+    "token": "ODY1OTQ4ODAzMDg0NDUxODQx.YQnJ6w.SE6I90BsmFTJeUL4RbwSWhac2SM",
+    "prefix": ".",
+    "__comment": " Type 1 = Copy to existent guild - Type 2 = Create a new guild",
+    "type": "1",
+	"__comment": " if you choose the type 1, insert the target guild id ",
+    "target": "872881537455104010"
+}
